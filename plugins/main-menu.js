@@ -82,5 +82,3 @@ async (conn, mek, m, { from, reply }) => {
     reply(`❌ Error: ${e.message}`);
   }
 });
-
-```
